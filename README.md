@@ -1,4 +1,4 @@
-# India-digital-payments-analysis/ RBI data 2019- 2025 
+# India-digital-payments-analysis/ RBI data 2019- 2025.
 Overview
 Analysis of India's digital payment ecosystem using Reserve Bank of India 
 monthly payment systems data spanning 2019 to 2025.
