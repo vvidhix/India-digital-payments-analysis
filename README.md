@@ -9,8 +9,7 @@ Sourced via Kaggle | 73 months of data
 
 Tools Used
 - SQL (MySQL) — data analysis and querying
-- Power BI — dashboard and visualizations (coming soon)
-- Notion — project documentation and findings
+- Notion — project documentation and findings with powerbi dashboards. 
 
  Key Findings
 1. October consistently peaks in UPI volume — Diwali festive season effect
