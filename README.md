@@ -19,7 +19,8 @@ Tools Used
 5. 34 of 73 months exceeded average UPI value — all from 2023 onwards
 
  Project Documentation
- A detailed walkthrough of the complete analysis is available on Notion. It includes:
+ A detailed walkthrough of the complete analysis is available on Notion. 
+ https://app.notion.com/p/RBI-PROJECT-3c578f5e7eb18023b920ee90fb479e96?source=copy_link
 
 - Project objective and research questions
 - Data sources and methodology
