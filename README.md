@@ -9,7 +9,8 @@ Sourced via Kaggle | 73 months of data
 
 Tools Used
 - SQL (MySQL) — data analysis and querying
-- Notion — project documentation and findings with powerbi dashboards. 
+- Notion — project documentation and findings 
+- Power BI Desktop — interactive dashboard and visualizations
 
  Key Findings
 1. October 2025 recorded peak UPI volume at 207,009 lakh transactions — driven by Diwali festive season consumer spending surge.
