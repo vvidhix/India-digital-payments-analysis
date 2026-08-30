@@ -20,3 +20,11 @@ Tools Used
 5. 34 of 73 months exceeded average UPI value — all from 2023 onwards
 
  Project Documentation
+ A detailed walkthrough of the complete analysis is available on Notion. It includes:
+
+- Project objective and research questions
+- Data sources and methodology
+- SQL queries and analysis
+- 10 key analytical findings
+- Power BI dashboards
+- Key insights and conclusions
